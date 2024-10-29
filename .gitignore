@@ -3,5 +3,6 @@
 .pnp.js
 
 /build
+/dist
 
 npm-debug.log*
